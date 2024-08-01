@@ -22,14 +22,9 @@ Data was collected, cleaned, and integrated datasets using district numbers and 
 
 ![District Level Dashboard Screenshot](path/to/screenshot.png)
 
-### School Level Dashboard
-- **Visual Representation**: Location data with filters for individual schools.
-- **After-School Programs**: Data on programs within a specified radius.
-- **Visualization Tools**: Interactive maps, bar graphs, and performance metrics bubble charts.
-
-![School Level Dashboard Screenshot](path/to/screenshot.png)
-
 ### Socioeconomic Analysis Dashboard
 - **Heatmap**: Poverty indices and racial demographics.
 - **Data Presentation**: Enrollment data, graduation, and dropout rates (2012-2018).
 - **Filtering Options**: Filter by ZIP code and school for detailed views.
+
+![Socioeconomic Analysis Dashboard Screenshot](path/to/screenshot.png)
