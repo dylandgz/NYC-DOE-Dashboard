@@ -2,14 +2,14 @@
 
 ## Introduction
 This is my final project for Data Analytics class. This project visualizes data from NYC DOE public schools using Tableau. There are three dashboards: District Level, School Level, and Socioeconomic Analysis. Data was sourced from NYC Open Data, including grades, attendance, graduation and dropout rates, and demographics.
+
 [Demo](https://public.tableau.com/views/NYCDistrictandSchoolInsights/FinalDistrictLevelDashboard)
 
 ## Technology Stack
-- **Data Collection and Cleaning**: R
 - **Visualization**: Tableau
 - **Geospatial Data Handling**: Integration of geographical data for precise mapping
 - **Interactive Dashboards**: Tableau's interactive features and filters
-- 
+  
 ## Methodology
 Data was collected, cleaned, and integrated datasets using district numbers and school names. Geometrical data for districts and school locations provided spatial context.
 
@@ -33,8 +33,3 @@ Data was collected, cleaned, and integrated datasets using district numbers and 
 - **Heatmap**: Poverty indices and racial demographics.
 - **Data Presentation**: Enrollment data, graduation, and dropout rates (2012-2018).
 - **Filtering Options**: Filter by ZIP code and school for detailed views.
-
-![Socioeconomic Analysis Dashboard Screenshot](path/to/screenshot.png)
-
-
-For more details, visit our [project page](https://public.tableau.com/views/NYCDistrictandSchoolInsights/FinalDistrictLevelDashboard).
